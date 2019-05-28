@@ -1,0 +1,18 @@
+.heros {
+    display: block;
+    height: 15vh;
+    width: 15vh;
+    float: left;
+    margin-left: 3vh;
+    background-color: darkslategrey;
+}
+
+.blockheading {
+    text-align: center;
+    padding-top: 5vh;
+    color: white;
+}
+
+h3{
+    margin-left: 20%;
+}
